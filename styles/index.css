@@ -1,0 +1,71 @@
+h1 {
+    /* changes the Bella Goth-text*/ 
+    color:#FF7452;
+    font-family: 'Playfair Display', serif; 
+    font-size: 180px;
+    font-weight: 800;
+    font-style: normal ;
+    /* changes the Bella Goth-column*/ 
+    background-color: transparent;
+    position: absolute;
+	top: 120px;
+	right: 60px;
+  }
+
+body {
+    /*the transparent image on top of blue*/
+    background-color: #305273;
+    background-image: url(../images/bellagothbackground.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 108%;
+}
+
+.the_conspiracy_text {
+    background-color: transparent;
+    color:#d7b0a7;
+    font-family: 'Playfair Display', serif; 
+    font-size: 30px;
+    font-weight: 100;
+    font-style: normal ;
+    position:absolute;
+	top: 410px;
+	right: 720px;
+}
+h2 { /* wishlist title */
+    color:#d7b0a7;
+    background-color: #1f344a;
+    font-family: 'Playfair Display', serif;  
+    font-size: 80px;
+    font-weight: 200;
+    font-style: normal ;
+    position: absolute;
+    bottom: -200px;
+    left: 2px;
+    right: 2px;
+    text-indent: 30px;
+}
+h3 { /* disclaimer line thats very small */
+    color:#FF7452;
+    font-family: 'Playfair Display', serif; 
+    font-size: 13px;
+    font-weight: 60;
+    font-style: italic ;
+    bottom: 18px;
+    right: 20px;
+    background-attachment: scroll;
+    position: absolute;
+}
+.the_list {
+    background-color: #1f344a;
+    color:#d7b0a7;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 200;
+    top: 800px;
+    right: 70px;
+    padding: 50px;
+    margin-top: 40px;
+    background-attachment: scroll;
+    position: absolute;
+}
